@@ -17,7 +17,7 @@
 
 - 👯I’m passionate about working with new people to build innovative projects. I believe **collaboration** fuels creativity and strengthens **problem-solving** and I'm excited to bring fresh ideas to life with like-minded individuals.
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/n-naveen01/)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/n-naveen01/)  | [Profile](https://nnaveen01.vercel.app/)**
   
 <p align="left">
 </p>
